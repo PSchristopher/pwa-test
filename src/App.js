@@ -7,6 +7,7 @@ import About from "./pages/About";
 
 function App() {
   const {
+    
     count: homeCount,
     increment: homeIncrement,
     decrement: homeDecrement,
